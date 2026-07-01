@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Touseef
+# Hi 👋, I'm Muhammad Touseef
 
 ### 🚀 MERN Stack Developer | Passionate About Building Modern Web Applications
 
